@@ -1,0 +1,10 @@
+#result {
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    background-color: red;
+    border: solid white;
+    border: radius 50px;
+}
